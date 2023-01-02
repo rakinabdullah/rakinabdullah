@@ -1,7 +1,9 @@
-[![MasterHead](https://www.canva.com/design/DAFWfYpt-3w/XmtLpM9rARAGEaifiKFQ3w/edit?utm_content=DAFWfYpt-3w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]()
+
 <h1 align="center">Hi 👋, I'm Abdullah Al Rakin</h1>
 <h3 align="center">A machine learning researcher</h3>
-<img align="right" alt="Coding" width="400" src=(https://cdn.dribbble.com/users/2017910/screenshots/5102683/ai_trends_dribbble_shot.gif)">
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2017910/screenshots/5102683/ai_trends_dribbble_shot.gif">
+                                                                                                                                         
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakinabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="rakinabdullah" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abdullahalrakin" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahalrakin?logo=twitter&style=for-the-badge" alt="abdullahalrakin" /></a> </p>
