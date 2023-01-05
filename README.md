@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/abdullahalrakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahalrakin" height="30" width="40" /></a>
 <a href="https://fb.com/abdullah.rakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah.rakin" height="30" width="40" /></a>
 <a href="https://instagram.com/rakinabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakinabdullah" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@abdullahalrakin9416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abdullahalrakin9416" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCfGLbLHM8usYvy3TG3rdwig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abdullahalrakin9416" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
