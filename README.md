@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello there! I'm Abdullah Al Rakin</h1>
-<h3 align="center">A machine learning researcher looking for grad school</h3>
+<h3 align="center">A graduate student in Computer Science specializing in Artificial Intelligence</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2017910/screenshots/5102683/ai_trends_dribbble_shot.gif">
                                                                                                                                          
@@ -8,9 +8,9 @@
 
 <!--p align="left"> <a href="https://twitter.com/abdullahalrakin" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahalrakin?logo=twitter&style=for-the-badge" alt="abdullahalrakin" /></a> </p-->
 
-- 👨‍💻 I’m looking to collaborate on **research projects on NLP & Deep Learning**
+- Currently, I’m looking to collaborate on **research projects** & opportunities in the field of **Machine Learning, & Data Science.**
 
-- 📩 How to reach me **abdullahalrakin@gmail.com**
+- Reach me here at **abdullahalrakin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
